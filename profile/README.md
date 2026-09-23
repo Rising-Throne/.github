@@ -1,67 +1,40 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Rising-Throne/.github/main/profile/rising-throne-logo.jpg" alt="Rising Throne logo" width="320" />
 
-<img width="1153" height="283" alt="image" src="https://github.com/user-attachments/assets/5892d0a4-6ed7-4e55-bb19-f925561a33c9" />
-<br/><br/>
+  <h1>Rising Throne</h1>
 
-[![Contact](https://img.shields.io/badge/Contact-contact%40therisingthrone.com-0B1220?style=for-the-badge&logo=gmail&logoColor=6FE3BF)](mailto:contact@therisingthrone.com)
-[![Website](https://img.shields.io/badge/Website-Coming_Soon-0B1220?style=for-the-badge&logo=googlechrome&logoColor=6FE3BF)](#)
+  <p><strong>Software that makes the abstract feel real.</strong></p>
+  <p>We build polished consumer products with a focus on clarity, craft, and a sense of scale.</p>
 
+  <p>
+    <a href="https://moneyvisualiser.com">Explore Money Visualiser</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:contact@therisingthrone.com">Get in touch</a>
+  </p>
 </div>
 
-<br/>
+---
 
-> Rising Throne is a software studio building polished, self-contained consumer
-> products — starting with tools that make abstract numbers tangible — and we
-> ship them when they're ready.
+## Money Visualiser
 
-<br/>
+**See what money really looks like.** Enter an amount and watch it take shape as realistic 3D stacks of bills, coins, or ingots. Explore the scale of **82 fiat currencies**, precious metals, and cryptocurrencies.
 
-## 💵 Money Visualiser
+Use it in a modern browser, with no download or sign-up required.
 
-<table>
-<tr>
-<td width="62%" valign="top">
+**[Try Money Visualiser →](https://moneyvisualiser.com)**
 
-**See what money really looks like.**
+| Platform | Availability |
+| :--- | :--- |
+| [Web app](https://moneyvisualiser.com) | Live |
+| [Chrome extension](https://chromewebstore.google.com/detail/money-visualiser-assistan/odnjjkdjfgcmlpbpbdegnpaidcakfckd) | Live |
+| Mobile app | In development |
 
-Enter any amount and watch it materialize as realistic 3D stacks of bills,
-ingots, or coins — a visceral sense of scale across **82 fiat currencies**,
-precious metals, and cryptocurrencies.
+## What's next
 
-Runs in any modern browser. No download, no sign-up.
-
-<br/>
-
-<a href="https://moneyvisualiser.com"><img src="https://img.shields.io/badge/Try_it_live-moneyvisualiser.com-34C79A?style=for-the-badge" alt="Try it live"/></a>
-
-</td>
-<td width="38%" valign="top">
-
-### Platforms
-
-| | Status |
-|---|---|
-| 🌐 **[Web app](https://moneyvisualiser.com)** | ![Live](https://img.shields.io/badge/-Live-34C79A?style=flat-square) |
-| 🧩 **[Chrome extension](https://chromewebstore.google.com/detail/money-visualiser-assistan/odnjjkdjfgcmlpbpbdegnpaidcakfckd)** | ![Live](https://img.shields.io/badge/-Live-34C79A?style=flat-square) |
-| 📱 **Mobile app** | ![In development](https://img.shields.io/badge/-In_development-8B95A5?style=flat-square) |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🔭 What's next
-
-Money Visualiser is our first release, not our last. More projects are in the
-works — we'll announce them here when they're ready to show.
-
-<br/>
+Money Visualiser is our first release. More projects are in the works, and we'll share them here when they're ready.
 
 ---
 
 <div align="center">
-
-**Rising Throne** · [contact@therisingthrone.com](mailto:contact@therisingthrone.com)
-
+  <sub>Rising Throne · <a href="mailto:contact@therisingthrone.com">contact@therisingthrone.com</a></sub>
 </div>
