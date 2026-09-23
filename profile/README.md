@@ -1,37 +1,32 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rising-Throne/.github/main/profile/rising-throne-logo.jpg" alt="Rising Throne logo" width="320" />
-
-  <h1>Rising Throne</h1>
+  <img src="https://raw.githubusercontent.com/Rising-Throne/.github/main/profile/rising-throne-banner.png" alt="Rising Throne software studio banner with the original black throne logo" />
 
   <p><strong>Software that makes the abstract feel real.</strong></p>
-  <p>We build polished consumer products with a focus on clarity, craft, and a sense of scale.</p>
-
-  <p>
-    <a href="https://moneyvisualiser.com">Explore Money Visualiser</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:contact@therisingthrone.com">Get in touch</a>
-  </p>
+  <p>We build polished consumer products that turn complex ideas into intuitive experiences.</p>
+  <p><a href="mailto:contact@therisingthrone.com">Get in touch</a></p>
 </div>
 
 ---
 
-## Money Visualiser
+## Our products
+
+### Money Visualiser
 
 **See what money really looks like.** Enter an amount and watch it take shape as realistic 3D stacks of bills, coins, or ingots. Explore the scale of **82 fiat currencies**, precious metals, and cryptocurrencies.
 
-Use it in a modern browser, with no download or sign-up required.
+[Open the web app](https://moneyvisualiser.com) · [Get the Chrome extension](https://chromewebstore.google.com/detail/money-visualiser-assistan/odnjjkdjfgcmlpbpbdegnpaidcakfckd) · Mobile app in development
 
-**[Try Money Visualiser →](https://moneyvisualiser.com)**
+### ValueThen
 
-| Platform | Availability |
-| :--- | :--- |
-| [Web app](https://moneyvisualiser.com) | Live |
-| [Chrome extension](https://chromewebstore.google.com/detail/money-visualiser-assistan/odnjjkdjfgcmlpbpbdegnpaidcakfckd) | Live |
-| Mobile app | In development |
+**Put historical money in perspective.** Compare purchasing power across years and currencies, explore gold and silver over time, and see the sources behind the figures.
 
-## What's next
+[Explore ValueThen →](https://valuethen.com)
 
-Money Visualiser is our first release. More projects are in the works, and we'll share them here when they're ready.
+### PaperXTrade
+
+**Practice trading with virtual funds.** A leveraged paper trading simulator with no real-money transactions.
+
+[paperxtrade.com](https://paperxtrade.com) · In development
 
 ---
 
